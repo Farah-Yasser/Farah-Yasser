@@ -51,9 +51,9 @@ Focus: full CRUD system, user authentication, seamless frontend–backend flow
 
 📫 Let’s Connect
 
-GitHub:<a href="">Click Here</a>
+GitHub:<a href="https://github.com/Farah-Yasser/Farah-Yasser">Click Here</a>
 
-LinkedIn:<a href="">Click Here</a>
+LinkedIn:<a href="https://www.linkedin.com/in/farahhyasserr?utm_source=share_via&utm_content=profile&utm_medium=member_ios">Click Here</a>
 
 
 “Soft does not mean weak — it means thoughtful.” 🤍
