@@ -12,7 +12,7 @@
 ---
 
 ## ✨ About Me
-```
+``` javascript
 const farah = {
   pronouns: "she/her",
   role: "Backend Developer",
