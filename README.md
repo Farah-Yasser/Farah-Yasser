@@ -26,7 +26,7 @@ const farah = {
     "REST APIs",
     "Backend Architecture",
     "Database Design"
-  ],```
+  ],
   littleJoy: "Turning ideas into systems that quietly work beautifully ✨"
 };
 I’m a Backend Developer working with Laravel, with a strong foundation in HTML, CSS, and JavaScript.
@@ -60,4 +60,4 @@ Petopia	Pet adoption platform with contact functionality	Laravel, MySQL, HTML/CS
 📫 Let’s Connect
 <div align="center"> <a href="https://github.com/Farah-Yasser"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/farahhyasserr"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=Learning+is+a+journey%2C+not+a+destination+🌱;Building+beautiful+systems+with+clean+code+✨;Always+growing%2C+always+learning+🌸" /> </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div> 
+<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div> ```
