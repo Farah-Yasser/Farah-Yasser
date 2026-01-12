@@ -13,7 +13,7 @@
 
 ## ✨ About Me
 
-javascript
+```javascript
 const farah = {
   pronouns: "she/her",
   role: "Backend Developer",
@@ -26,7 +26,7 @@ const farah = {
     "REST APIs",
     "Backend Architecture",
     "Database Design"
-  ],
+  ],```
   littleJoy: "Turning ideas into systems that quietly work beautifully ✨"
 };
 I’m a Backend Developer working with Laravel, with a strong foundation in HTML, CSS, and JavaScript.
