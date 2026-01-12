@@ -11,50 +11,56 @@
 
 ---
 
-## ✨ About Me
-``` javascript
-const farah = {
-  pronouns: "she/her",
-  role: "Backend Developer",
-  mainStack: "Laravel",
-  background: ["HTML", "CSS", "JavaScript"],
-  passion: "Building meaningful systems",
-  philosophy: "Clean, reliable, and thoughtfully designed",
-  currentFocus: [
-    "Advanced Laravel",
-    "REST APIs",
-    "Backend Architecture",
-    "Database Design"
-  ],
-  littleJoy: "Turning ideas into systems that quietly work beautifully ✨"
-};
-```
+Hi there 🌸, I’m Farah Yasser
+✨ About Me
+
 I’m a Backend Developer working with Laravel, with a strong foundation in HTML, CSS, and JavaScript.
-I’m deeply passionate about learning, growth, and building systems that are calm, intentional, and well-structured.
+I’m deeply passionate about learning, growth, and building meaningful systems that are clean, reliable, and thoughtfully designed.
 
-I enjoy backend logic, APIs, and databases, while appreciating the harmony between backend and frontend.
-Good software, to me, is not just functional — it feels right.
+I enjoy working on backend logic, APIs, and databases, while also appreciating the harmony between backend and frontend. I believe good software is not just functional — it’s calm, intentional, and well-structured.
 
-🚀 Skills
-🌿 Backend
-<div align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-00B4D8?style=for-the-badge" /> </div>
-🎨 Frontend (Strong Foundation)
-<div align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </div>
-🗄 Database
-<div align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> </div>
-🧰 Tools
-<div align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </div>
+🌱 Currently growing in: Advanced Laravel, REST APIs, Backend Architecture, Database Design
+
+💼 Open to roles in Backend & Full-Stack Development
+
+⚡ Little joy: turning ideas into systems that quietly work beautifully
+
+🛠 Skills
+Backend
+<div align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-blue?style=for-the-badge" /> </div>
+Frontend (Strong Foundation)
+<div align="left"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </div>
+Database
+<div align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> </div>
+Tools
+<div align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </div>
 🌷 Selected Projects
-🌿 Backend Projects
-Project	Description	Tech Stack	Focus
-Organizo	Productivity system to organize and prioritize tasks	Laravel, MySQL	Auth, task management, clean backend logic
-Midlancer	Freelancer platform connecting talent with clients (Egypt)	Laravel, MySQL	User roles, job workflows, backend structure
-🎨 Frontend Projects
-Project	Description	Tech Stack	Focus
-PetZ	Smart pet dispenser system with scheduled feeding	HTML, CSS, JavaScript	Intuitive UI, smooth interaction
-🌸 Full-Stack Projects
-Project	Description	Tech Stack	Focus
-Petopia	Pet adoption platform with contact functionality	Laravel, MySQL, HTML/CSS/JS	Full CRUD, auth, frontend-backend flow
+🌿 Backend
+
+Organizo — Productivity Website
+A calm, structured system designed to help users organize and prioritize tasks.
+Tech: Laravel, MySQL
+Focus: authentication, task management, clean backend logic
+
+Midlancer — Freelancer Platform (Egypt)
+A platform connecting freelancers with clients in a simple, thoughtful way.
+Tech: Laravel, MySQL
+Focus: user roles, job workflows, backend structure
+
+🎨 Frontend
+
+PetZ — Smart Pet Dispenser System
+A smart system that automatically serves pets’ food and water based on schedules set through a mobile app, with disposable parts for easy maintenance.
+Tech: HTML, CSS, JavaScript
+Focus: intuitive UI, smooth interaction, gentle user experience
+
+🌸 Full-Stack
+
+Petopia — Pet Adoption Platform
+A warm, user-friendly pet adoption website with contact and interaction features.
+Tech: Laravel, MySQL, HTML, CSS, JavaScript
+Focus: full CRUD system, user authentication, seamless frontend–backend flow
+
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Farah-Yasser&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B8B&icon_color=FF6B8B&text_color=ffffff" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farah-Yasser&theme=radical&hide_border=true&background=0d1117&ring=FF6B8B&fire=FF6B8B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B8B&sideLabels=ffffff&dates=ffffff" width="48%" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Yasser&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B8B&text_color=ffffff" /> </div>
 📫 Let’s Connect
