@@ -51,9 +51,9 @@ Focus: full CRUD system, user authentication, seamless frontend–backend flow
 
 📫 Let’s Connect
 
-GitHub:<href="">Click Here
+GitHub:<a href="">Click Here</a>
 
-LinkedIn:<href="">Click Here
+LinkedIn:<a href="">Click Here</a>
 
 
 “Soft does not mean weak — it means thoughtful.” 🤍
