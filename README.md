@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ```javascript
+javascript
   const farah = {
     pronouns: "she" | "her",
     role: "Backend Developer",
@@ -57,4 +57,4 @@ Petopia — Pet Adoption Platform	A warm, user-friendly pet adoption website wit
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&lines=Learning+is+a+journey%2C+not+a+destination+🌱;Building+beautiful+systems+with+clean+code+✨;Always+growing%2C+always+learning+🚀" alt="Quote animation" /></div><!-- Add some color blocks for visual appeal --><div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></div><div align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID" alt="Spotify" /> <!-- Optional: Add your Spotify ID -->
 
-</div> ```
+</div> 
